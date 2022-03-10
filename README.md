@@ -1,1 +1,2 @@
 # Voice-based-email-system
+The visually impaired people are facing a problem of communication. So I came up with a  proposed work i.e. Voice-based Email System. This method provides them the facility of communication and creates a lot of strength. Moreover, this design can facilitate blind individuals to access email and alternative transmission functions. Accessibility is the most important feature that is considered while developing this system. Any system is called accessible only if both able and disabled people can use it easily
